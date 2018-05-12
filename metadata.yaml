@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27278#Recueil-des-exemples-de-la-malice-des-femmes-et-des-malheurs-venus---leur-occasion
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2008-11-16'
 gutenberg_type: Text
